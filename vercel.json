@@ -4,7 +4,7 @@
   "routes": [
     {
       "src": "/",
-      "dest": "/auth/splash.html"
+      "dest": "/demo.html"
     },
     {
       "src": "/app/(.*)",
